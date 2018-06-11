@@ -1,0 +1,15 @@
+{
+  "name": "ZoomLevelInfo",
+  "platform": "HTML",
+  "version": "2.8",
+  "wabVersion": "2.8",
+  "author": "Esri Deutschland GmbH // Riccardo Klinger",
+  "description": "This is a widget to show scale and zoom level of the underlying map.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "inPanel": false,
+    "hasUIFile": true,
+    "supportMultiInstance": false
+  }
+}
